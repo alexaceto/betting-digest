@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-24",
+  "fetchedAt": 1795531800000,
+  "stakeUnits": 8.0,
+  "unitUsd": 10.0,
+  "picks": [
+    {
+      "id": "digest-2026-11-24-1",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Maryland vs Tennessee",
+      "when": "3:00 PM ET",
+      "selection": "Tennessee -3.5",
+      "book": "Hard Rock Bet",
+      "odds": -105,
+      "units": 1.5,
+      "confidence": 4,
+      "estEv": 0.08,
+      "reasoning": "Covers projects Tennessee by 4.9 points (75.6–70.7) against a -3.5 market. Jevon Jones (Tony's Picks) made the Volunteers his top play, and 69% of Covers contest players are on Tennessee.",
+      "caveat": "Ralph Scott is out. Jalen Haralson and Jalen Washington are questionable as of 9:47 AM ET. Confirm before tip."
+    },
+    {
+      "id": "digest-2026-11-24-2",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Louisville vs Texas Tech",
+      "when": "8:00 PM ET",
+      "selection": "Texas Tech -3.5",
+      "book": "Fanatics",
+      "odds": 100,
+      "units": 1.25,
+      "confidence": 3,
+      "estEv": 0.11,
+      "reasoning": "Covers is close to the number (Tech 78.5–74.6). The overlay is Louisville's De'Shayne Montgomery listed out ($7,900 DK salary) as of 9:47 AM ET. Jones also backed Tech; Covers consensus is 64% on the Red Raiders.",
+      "caveat": "Louisville's De'Shayne Montgomery is listed out as of 9:47 AM ET."
+    },
+    {
+      "id": "digest-2026-11-24-3",
+      "tier": "top",
+      "sport": "NBA",
+      "market": "Moneyline",
+      "matchup": "Detroit Pistons at Orlando Magic",
+      "when": "7:00 PM ET",
+      "selection": "Pistons ML",
+      "book": "Caesars",
+      "odds": -135,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.06,
+      "reasoning": "numberFire has Detroit at 65.0% to win versus a market implied win rate of about 57–59%. A conservative 61% fair rate still shows positive EV at -135. Orlando is without Paolo Banchero (right high ankle sprain) and Jonathan Isaac. Detroit is without Jalen Duren and Duncan Robinson. The spread moved from DET -1.5 to -2.5, with 67% of tickets and 92% of handle on Detroit (Cleatz / PCG, about 9:45 AM ET).",
+      "caveat": "Cade Cunningham is only probable (right knee). If he is downgraded, skip this pick. Jalen Duren and Duncan Robinson are out for Detroit; Paolo Banchero and Jonathan Isaac are out for Orlando."
+    },
+    {
+      "id": "digest-2026-11-24-4",
+      "tier": "top",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Miami (OH) at Western Michigan",
+      "when": "7:00 PM ET",
+      "selection": "Miami (OH) +6.5",
+      "book": "FanDuel",
+      "odds": -105,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.07,
+      "reasoning": "BettingPros backs the RedHawks as a live dog. Western Michigan opened -7.5 and is now -6.5. Miami has a strong run defense against a run-heavy WMU offense, and Western Michigan is 2-7 ATS in its last nine.",
+      "caveat": "About 31°F at kick at Waldo Stadium, light 4 mph wind, no rain, cooling to 27°F (Wager on Weather)."
+    },
+    {
+      "id": "digest-2026-11-24-5",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Total",
+      "matchup": "Iowa State vs San Diego State",
+      "when": "5:30 PM ET",
+      "selection": "Under 142.5",
+      "book": "BetRivers",
+      "odds": -109,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.09,
+      "reasoning": "Covers projects 140.1 points. Iowa State is 6-0 to the under in its last six; SDSU is 5-0 to the under in its last five neutral games. No spread pick: the model sits on -8.4 while books range from -7.5 to -9.5.",
+      "caveat": "Iowa State guard Killyan Toure is out ($7,000 DK salary), which can further cap scoring."
+    },
+    {
+      "id": "digest-2026-11-24-6",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Total",
+      "matchup": "Michigan vs Creighton",
+      "when": "5:30 PM ET",
+      "selection": "Over 161.5",
+      "book": "FanDuel",
+      "odds": -106,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.11,
+      "reasoning": "Covers projects 164.2 points (Michigan 85.5, Creighton 78.8). Covers' Colby Marchio has the over (his number was 163.5, playable to 165.5) and notes a high-tempo matchup. Michigan is 6-1 to the over in its last seven neutral games as a favorite."
+    },
+    {
+      "id": "digest-2026-11-24-7",
+      "tier": "value",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Kent State at Eastern Michigan",
+      "when": "7:00 PM ET",
+      "selection": "Eastern Michigan -5.5",
+      "book": "FanDuel",
+      "odds": -112,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.04,
+      "reasoning": "BettingPros: Kent State averages 14.5 PPG (137th of 138 FBS) and is 0-6 ATS on the road this year. Weather about 30°F, light wind."
+    },
+    {
+      "id": "digest-2026-11-24-8",
+      "tier": "value",
+      "sport": "NCAAF",
+      "market": "Total",
+      "matchup": "Miami (OH) at Western Michigan",
+      "when": "7:00 PM ET",
+      "selection": "Over 45.5",
+      "book": "FanDuel/BetMGM/Fanatics (via SlateLines 9:41 AM ET)",
+      "odds": -112,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.04,
+      "reasoning": "SportsLine projected 47 points and the over in 54% of 10,000 sims (CBS, 8:47 AM ET). Wager on Weather listed -108. Correlated with the Miami +6.5 pick; do not overweight the same game. Cold weather is the risk."
+    },
+    {
+      "id": "digest-2026-11-24-9",
+      "tier": "value",
+      "sport": "PARLAY",
+      "market": "Parlay",
+      "matchup": "Tennessee -3.5 + Texas Tech -3.5",
+      "when": "",
+      "selection": "Tennessee -3.5 + Texas Tech -3.5",
+      "book": "Hard Rock Bet / Fanatics",
+      "odds": 290,
+      "units": 0.25,
+      "confidence": 2,
+      "estEv": 0.1,
+      "reasoning": "Same two CBB sides as the straight bets, combined at about +290 (-105 and +100). Keep the stake small.",
+      "legs": [
+        {
+          "selection": "Tennessee -3.5",
+          "book": "Hard Rock",
+          "odds": -105
+        },
+        {
+          "selection": "Texas Tech -3.5",
+          "book": "Fanatics",
+          "odds": 100
+        }
+      ]
+    }
+  ],
+  "record": {
+    "yesterday": {
+      "w": 0,
+      "l": 0,
+      "p": 0,
+      "units": 0.0,
+      "usd": 0.0
+    },
+    "season": {
+      "w": 0,
+      "l": 0,
+      "p": 0,
+      "units": 0.0,
+      "usd": 0.0,
+      "hitRate": 0.0
+    },
+    "mine": {
+      "w": 0,
+      "l": 0,
+      "usd": 0.0
+    }
+  },
+  "passed": [
+    "Aston Villa +125 at BetMGM: vig-free consensus across 51 books is about 42.7%, which is worse than +125.",
+    "Baylor +1.5 and TCU +5.5: some experts liked the dogs; the Covers model does not.",
+    "Golden Knights at Oilers moneyline: numberFire likes Edmonton at 58.5%; Covers' Neil Parker likes Vegas. No side published.",
+    "No player props: prices were not verified.",
+    "No NFL today (Packers at Rams is Wednesday). No MLB (offseason)."
+  ],
+  "dashboardUrl": "https://cursor.com/canvas/store-ed3151b7-555e-43df-a36f-eccbc7ff339a/a04ceab0-791f-493a-96ec-4bc4bbc59382"
+}
