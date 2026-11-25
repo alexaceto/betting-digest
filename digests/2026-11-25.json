@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-25",
+  "fetchedAt": 1795611600000,
+  "stakeUnits": 4.75,
+  "unitUsd": 10.0,
+  "picks": [
+    {
+      "id": "digest-2026-11-25-1",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "UConn vs Duke (T-Mobile Arena, Las Vegas)",
+      "when": "7:00 PM ET",
+      "selection": "Duke +2.5",
+      "book": "FanDuel",
+      "odds": -108,
+      "units": 1.25,
+      "confidence": 3,
+      "estEv": 0.06,
+      "reasoning": "ESPN BPI makes Duke a 55.2% favorite, while the market has UConn -2.5 and ML -137 to -155. VSiN's Adam Burke also bet Duke +2.5, citing UConn's interior defense: opponents are shooting 55.7% on close twos, up from 50.5% last season. Against us: the line moved from Duke +1.5 to +2.5, and 91% of ML money is on UConn (Action Network). FanDuel -108 is the best price; DK and BetMGM are -115."
+    },
+    {
+      "id": "digest-2026-11-25-2",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Moneyline",
+      "matchup": "Southern Utah vs Long Beach State (Miami, neutral)",
+      "when": "1:00 PM ET",
+      "selection": "Southern Utah ML",
+      "book": "FanDuel",
+      "odds": 108,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.08,
+      "reasoning": "BPI gives Southern Utah a 60.3% win chance; the no-vig market has about 47% (LBSU -125/-130). Spread money agrees: 73% of handle is on SUU +1.5 against 59% of tickets (Action Network). FanDuel and bet365 have SUU at +108, the best price; FanDuel also has SUU +2.5 at -120."
+    },
+    {
+      "id": "digest-2026-11-25-3",
+      "tier": "top",
+      "sport": "NFL",
+      "market": "Total",
+      "matchup": "Green Bay Packers at Los Angeles Rams",
+      "when": "8:00 PM ET",
+      "selection": "Matthew Stafford Under 232.5 Passing Yards",
+      "book": "FanDuel",
+      "odds": -113,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.09,
+      "reasoning": "The Rams are without Davante Adams (IR) and Puka Nacua (knee surgery, per X reports), and two starting OL were ruled out (Coleman Shelton is on ESPN's injury list). VSiN's Opta AI projects Stafford for 179.7 passing yards. The game total has fallen from 48.5 to 44.5. FanDuel's 232.5 is the highest line; DK and BetMGM are at 229.5."
+    },
+    {
+      "id": "digest-2026-11-25-4",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Northern Illinois at SIU Edwardsville",
+      "when": "7:00 PM ET",
+      "selection": "SIU Edwardsville +3.5",
+      "book": "BetRivers",
+      "odds": 100,
+      "units": 0.75,
+      "confidence": 2,
+      "estEv": 0.05,
+      "reasoning": "BPI has NIU at only 54.5% on the road (about a 1.5-point favorite) against a 3.5-point market. The line opened at SIUE +4.5, and SIUE has 99% of ML money on 24% of tickets, a sharp-style split. BetRivers is the only even-money +3.5; most books are -102 to -110."
+    },
+    {
+      "id": "digest-2026-11-25-5",
+      "tier": "value",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Virginia vs Marquette (Battle 4 Atlantis, Nassau)",
+      "when": "12:00 PM ET",
+      "selection": "Marquette +5.5 (Polymarket only)",
+      "book": "Polymarket",
+      "odds": 100,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.08,
+      "reasoning": "Virginia game, Polymarket only. The 'Spread: Virginia (-5.5)' market had Marquette at 0.48 mid and 0.50 to buy as of about 7:58 AM ET: 50% implied, +100. That beats the books' MARQ +5.5 at -105 to -114. BPI has UVA by only about 1.5 (55.2%), and the line opened at 4.5. The market is thin: about $8.3K liquidity and $102 traded. Use a limit order at 0.50 or lower to avoid paying the spread, and note Polymarket's taker fee. EV is after an assumed 1% fee."
+    },
+    {
+      "id": "digest-2026-11-25-6",
+      "tier": "value",
+      "sport": "PARLAY",
+      "market": "Parlay",
+      "matchup": "Duke +2.5 + Southern Utah ML",
+      "when": "",
+      "selection": "Duke +2.5 + Southern Utah ML",
+      "book": "FanDuel",
+      "odds": 301,
+      "units": 0.25,
+      "confidence": 2,
+      "estEv": 0.15,
+      "reasoning": "Same two sides as the straight bets, combined at FanDuel (-108 and +108, about +301). The legs are independent games. Keep the stake small.",
+      "legs": [
+        {
+          "selection": "Duke +2.5",
+          "book": "FanDuel",
+          "odds": -108
+        },
+        {
+          "selection": "Southern Utah ML",
+          "book": "FanDuel",
+          "odds": 108
+        }
+      ]
+    }
+  ],
+  "record": {
+    "yesterday": {
+      "w": 6,
+      "l": 4,
+      "p": 0,
+      "units": 1.9869999999999999,
+      "usd": 19.87
+    },
+    "season": {
+      "w": 6,
+      "l": 4,
+      "p": 0,
+      "units": 1.9869999999999999,
+      "usd": 19.87,
+      "hitRate": 0.6
+    }
+  },
+  "passed": [
+    "Rams -2.5 / Under 44.5 (GB–LAR): the total already dropped 4 points with 92% of tickets on the under; the side moved toward GB. No edge left.",
+    "BYU -3.5 vs Providence: BPI 70.7% suggests value, but the line moved from 4 to 3.5 against 96% of ML tickets on BYU. Conflicting sharp signal.",
+    "Mississippi State -4 vs Wake Forest: BPI likes MSST, but 57% of ML money is on Wake from 7% of tickets.",
+    "VCU vs Washington (Polymarket only): VCU ML at 0.62 (-163, 62%) vs about 65% fair is about +3% before fees, too thin. VCU -3.5 at 0.56 (-127) is negative EV. Books: VCU -3.5 -110 (reference only).",
+    "Virginia vs Marquette ML: Marquette at Polymarket 0.30 (+233) shows model value, but BPI may underrate 7-0 UVA; we took the spread only.",
+    "Other VA games (Liberty -3.5 vs Princeton, George Mason -15.5 vs Longwood, Richmond -11.5 vs Bethune-Cookman, NC State -28.5 vs Norfolk State): no model edge; no Polymarket market found for Princeton–Liberty.",
+    "NBA: large injury-driven moves (PHI -4.5 to -1.5, SAS -4.5 to -2.5, SAS–POR total 237.5 to 225.5) that we could not verify. Passed.",
+    "NHL: Bruins -162 vs Jets (favorite team): no model edge found, so no bet. VSiN's JD likes Ryan Leonard 2+ SOG (about -200) with Caps–Flyers Over 6; noted only.",
+    "Champions League: no reliable model today. Passed."
+  ],
+  "dashboardUrl": "https://cursor.com/canvas/store-ed3151b7-555e-43df-a36f-eccbc7ff339a/a04ceab0-791f-493a-96ec-4bc4bbc59382"
+}
