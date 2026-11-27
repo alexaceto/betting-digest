@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-27",
+  "fetchedAt": 1795785000000,
+  "stakeUnits": 5.5,
+  "unitUsd": 10.0,
+  "picks": [
+    {
+      "id": "digest-2026-11-27-1",
+      "tier": "top",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Buffalo at Akron",
+      "when": "12:00 PM ET",
+      "selection": "Buffalo -7.5",
+      "book": "DraftKings",
+      "odds": -102,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.125,
+      "reasoning": "ESPN FPI makes Buffalo (8-3) a 79.4% favorite over Akron (2-9); the no-vig market says about 72% (BUFF -300). Our blend projects about an 8.7-point margin, so the cover chance is about 56.8%. The line has come down from the -10.5 open, which gives us a better number. DK and Caesars have -7.5 at -102 (FanDuel -104). VSiN's Steve Makinen also backs Buffalo -7.5 (revenge and win-gap systems). Forecast: 40°F, gusts up to 18 mph, 49% chance of rain."
+    },
+    {
+      "id": "digest-2026-11-27-2",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Marquette vs Texas A&M (Battle 4 Atlantis, Paradise Island)",
+      "when": "5:00 PM ET",
+      "selection": "Marquette +2.5",
+      "book": "bet365",
+      "odds": -115,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.088,
+      "reasoning": "ESPN BPI makes Marquette a 52.9% favorite; the no-vig market has about 47% (TA&M -125). The line has moved from TA&M -3.5 to -1.5 even though 86% of ML tickets and 88% of ML money are on A&M (Action Network), which points to sharp money on Marquette. bet365 still has the +2.5 (-115), the best number on the board; most other books are at +1.5. Our blended cover chance at +2.5 is about 58%."
+    },
+    {
+      "id": "digest-2026-11-27-3",
+      "tier": "top",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Minnesota at Wisconsin",
+      "when": "7:30 PM ET",
+      "selection": "Wisconsin -7.5",
+      "book": "FanDuel",
+      "odds": -120,
+      "units": 0.75,
+      "confidence": 3,
+      "estEv": 0.076,
+      "reasoning": "ESPN FPI makes Wisconsin a 79.6% favorite (about 76% blended), which is about a 10.8-point fair margin. The market has moved from WIS -6.5 to -9/-9.5, but FanDuel still has -7.5 (-120), about two points better than DK and bet365 (-9.5). Makinen's power rating has Wisconsin by 10.1, and his EYPP projection has them by 22.1. Forecast: 39°F with light wind."
+    },
+    {
+      "id": "digest-2026-11-27-4",
+      "tier": "top",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Texas at Texas A&M",
+      "when": "7:30 PM ET",
+      "selection": "Texas -11.5",
+      "book": "FanDuel",
+      "odds": -106,
+      "units": 0.75,
+      "confidence": 2,
+      "estEv": 0.049,
+      "reasoning": "ESPN FPI gives Texas an 83.8% win chance, and the no-vig market has about 79% (TEX -450). Our blend projects Texas by about 13. Makinen's power rating has Texas -12.3 and his EYPP line has them -17.5; he backs Texas -11.5. FanDuel and bet365 have -11.5 at -106. BetRivers has -11 (-112), worth taking if you want the half point. 68% of spread money is on Texas."
+    },
+    {
+      "id": "digest-2026-11-27-5",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Moneyline",
+      "matchup": "Tennessee vs Louisville (Players Era, Las Vegas)",
+      "when": "9:00 PM ET",
+      "selection": "Tennessee ML",
+      "book": "BetMGM",
+      "odds": -118,
+      "units": 0.75,
+      "confidence": 2,
+      "estEv": 0.06,
+      "reasoning": "ESPN BPI gives 7-0 Tennessee a 64.6% win chance against Louisville; the no-vig market has about 52.6% (TENN -122/LOU +102). Our blend is about 57.4%. BetMGM's -118 is the best ML; most books are at -122. Tennessee beat Iowa State 75-64 Thursday, and Louisville beat St. John's, so both teams are on the second day of a back-to-back. The ML rates better than -1.5 (about +3% EV)."
+    },
+    {
+      "id": "digest-2026-11-27-6",
+      "tier": "value",
+      "sport": "NCAAB",
+      "market": "Moneyline",
+      "matchup": "Hampton vs UMass Lowell (Bender Arena, Washington DC)",
+      "when": "1:00 PM ET",
+      "selection": "UMass Lowell ML (Polymarket only)",
+      "book": "Polymarket",
+      "odds": -122,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.12,
+      "reasoning": "Massachusetts school, so Polymarket only today. The 'Hampton Pirates vs. Massachusetts-Lowell River Hawks' market had UML at 0.54 mid and 0.55 ask about 8:02 AM ET: 55% implied, about -122. That is a better price than the books (UML -134 to -157). BPI gives UML (4-2) 72.5% against Hampton (1-4); the no-vig market says about 55%. Blended fair is about 62%, so EV is about +12% after an assumed 1% fee. The market is thin: about $13.9K of liquidity and almost nothing traded. Use a limit order at 0.55 or lower. Books reference: UML -2.5 (-105 FanDuel)."
+    },
+    {
+      "id": "digest-2026-11-27-7",
+      "tier": "value",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "St. John's vs Iowa State (Players Era consolation, Las Vegas)",
+      "when": "1:00 PM ET",
+      "selection": "Iowa State +4.5",
+      "book": "FanDuel",
+      "odds": -110,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.1,
+      "reasoning": "BPI makes Iowa State a 56.3% favorite, but the market has St. John's at about 62% (SJU -185). That gap is large. The raw model EV is about +17%; we cut it to about +10% because the line moved from 2.5 to 4.5 against Iowa State and no splits were posted. Both teams lost Thursday (ISU to Tennessee 75-64, SJU to Louisville). FanDuel, BetMGM and Caesars have +4.5 at -110. Small stake because the signals conflict."
+    },
+    {
+      "id": "digest-2026-11-27-8",
+      "tier": "value",
+      "sport": "PARLAY",
+      "market": "Parlay",
+      "matchup": "Buffalo -7.5 + Marquette +2.5",
+      "when": "12:00 / 5:00 PM ET",
+      "selection": "Buffalo -7.5 + Marquette +2.5",
+      "book": "bet365",
+      "odds": 268,
+      "units": 0.25,
+      "confidence": 2,
+      "estEv": 0.2,
+      "reasoning": "Our two highest-confidence sides, combined at bet365 (BUFF -7.5 -103, MARQ +2.5 -115, about +268). The legs are independent games, and the model's joint probability is about 33%. Parlays are 0-4 this season, so keep this at a quarter unit.",
+      "legs": [
+        {
+          "selection": "Buffalo -7.5",
+          "book": "bet365",
+          "odds": -103
+        },
+        {
+          "selection": "Marquette +2.5",
+          "book": "bet365",
+          "odds": -115
+        }
+      ]
+    }
+  ],
+  "record": {
+    "yesterday": {
+      "w": 4,
+      "l": 2,
+      "p": 0,
+      "units": 1.2469999999999999,
+      "usd": 12.47
+    },
+    "season": {
+      "w": 13,
+      "l": 11,
+      "p": 0,
+      "units": 1.2759999999999998,
+      "usd": 12.76,
+      "hitRate": 0.5417
+    }
+  },
+  "passed": [
+    "Broncos at Steelers (DEN -4.5, 37): FPI has this as a coin flip, but Pittsburgh released Aaron Rodgers and Mason Rudolph starts (VSiN). The line moved from DEN -1.5 to -4.5, and about 85% of spread money is on Denver. The model's PIT edge is a QB-change artifact. Pass.",
+    "Nebraska at Iowa (IOWA -3.5, total about 40.5): VSiN is split (Burke: Iowa -4.5; Makinen: Under 40.5). Our edge is under +3%. Pass.",
+    "Toledo at Ohio (TOL -3): Tuley likes Ohio +3, and Makinen likes Under 46.5 (now 44.5 after the move). We had no model edge at the current numbers.",
+    "NDSU -8.5 at San Jose State (Makinen pick): model EV is about +5% at BetMGM -8, but the line moved 4 points from the open. Close to the cut; pass.",
+    "West Virginia +26 at Utah (Burke pick): the tail-spread conversion isn't reliable. Pass.",
+    "Large college hoops spreads (Bellarmine/Butler, ODU/VT, BGSU/IU, WKU/ILL, Oakland/Houston): the normal-margin model overstates dogs at the tails. Not trusted.",
+    "Knicks ML vs Heat (-174 FD, about +6% raw): Anunoby and Clarkson are out, and moneylines are down 1.65u this season. Pass.",
+    "Bruins vs Maple Leafs (BOS -155), Celtics vs Hawks (BOS -9.5): favorite teams, and we found no positive-EV side backing them. We don't fade favorite teams without exceptional value (ATL +310 is only about +7% raw, which is not exceptional). Pass.",
+    "NHL generally: no verified projection model today, so no NHL picks.",
+    "Polymarket checks: Cincinnati vs BC (CIN -8.5) and Northeastern at Northwestern show no edge at Polymarket prices; Vermont vs Merrimack is near fair.",
+    "Soccer: none of the user's leagues have matches today."
+  ],
+  "dashboardUrl": "https://cursor.com/canvas/store-ed3151b7-555e-43df-a36f-eccbc7ff339a/a04ceab0-791f-493a-96ec-4bc4bbc59382"
+}
