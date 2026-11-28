@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-28",
+  "fetchedAt": 1795873200000,
+  "stakeUnits": 4.25,
+  "unitUsd": 10.0,
+  "picks": [
+    {
+      "id": "digest-2026-11-28-1",
+      "tier": "top",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Illinois at Northwestern",
+      "when": "12:30 PM ET",
+      "selection": "Northwestern -3.5",
+      "book": "Caesars",
+      "odds": -103,
+      "units": 1.0,
+      "confidence": 3,
+      "estEv": 0.083,
+      "reasoning": "No-vig consensus moneyline gives Northwestern about 59.8%, and ESPN FPI gives about 70.3%. The blend projects a 5.4-point margin, so the cover chance at -3.5 is about 55%. The line flipped from Illinois -3.5 at the open to Northwestern -3.5 (a 7-point move), with 67% of spread money on the Wildcats, so the market is moving our way. Caesars has -3.5 at -103 (FanDuel and bet365 -104, DK -108). Forecast: 38°F, 40% chance of precipitation, gusts around 11 mph."
+    },
+    {
+      "id": "digest-2026-11-28-2",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "N.C. Central at Gardner-Webb",
+      "when": "1:00 PM ET",
+      "selection": "N.C. Central +1.5",
+      "book": "FanDuel",
+      "odds": -102,
+      "units": 0.75,
+      "confidence": 2,
+      "estEv": 0.12,
+      "reasoning": "ESPN BPI has N.C. Central (2-5) as the 58% side at Gardner-Webb (1-6), while the no-vig market makes GWU about 54%. The blend projects close to a pick'em (GWU by 0.3), so the cover chance at +1.5 is about 56.6%. FanDuel's -102 is the best price (BetRivers and Caesars -103, DK -109). No splits are posted for this game, and the model disagrees with the market here, so the stake is modest."
+    },
+    {
+      "id": "digest-2026-11-28-3",
+      "tier": "top",
+      "sport": "NCAAF",
+      "market": "Spread",
+      "matchup": "Auburn at Alabama",
+      "when": "7:30 PM ET",
+      "selection": "Alabama -14.5",
+      "book": "BetMGM",
+      "odds": -108,
+      "units": 0.75,
+      "confidence": 2,
+      "estEv": 0.05,
+      "reasoning": "The no-vig market makes Alabama about 84.7% (-750) and ESPN FPI about 88%. The blend margin is about 16.2, so the cover chance at -14.5 is about 54.5%. The line has moved from -10 to -14.5 even though 65% of spread tickets and 71% of money are on Auburn. That is a move against the public, toward our side. Auburn QB Byrum Brown was upgraded to probable (X/SEC availability report), so the number already prices him in. BetMGM has -14.5 at -108 (DK -110, Caesars -112; BetRivers and Bally are at -15.5)."
+    },
+    {
+      "id": "digest-2026-11-28-4",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Brown at Air Force",
+      "when": "3:00 PM ET",
+      "selection": "Brown +2.5",
+      "book": "bet365",
+      "odds": -110,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.098,
+      "reasoning": "ESPN BPI makes Brown about a 55% winner, while the no-vig market has Air Force about 56%. The blend lands on a pick'em, so the cover chance at +2.5 is about 57.5%. The ML has drifted from AF -132 to -142, with 94% of ML money on Air Force, which works against us. That keeps this at 0.5u. +2.5 -110 is widely available (DK, FanDuel, BetMGM, bet365, Caesars); avoid BetRivers and Bally at +1.5."
+    },
+    {
+      "id": "digest-2026-11-28-5",
+      "tier": "top",
+      "sport": "NCAAB",
+      "market": "Spread",
+      "matchup": "Creighton vs Louisville (Players Era final, Las Vegas)",
+      "when": "10:30 PM ET",
+      "selection": "Creighton +4.5",
+      "book": "Bally Bet",
+      "odds": -109,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.055,
+      "reasoning": "This is a neutral-site final between Creighton (7-1) and Louisville (6-1). Louisville beat Tennessee 84-64 last night (ESPN). The market makes Louisville about 63.9% and BPI about 57.1%. The blend margin is about 3.1, so the cover chance at +4.5 is about 55%. The line is steady at 4.5 from the open. Bally Bet is at -109 (FanDuel, BetMGM, Caesars -110)."
+    },
+    {
+      "id": "digest-2026-11-28-6",
+      "tier": "value",
+      "sport": "NCAAB",
+      "market": "Moneyline",
+      "matchup": "UMass Lowell at American (Capital Thanksgiving Classic, DC)",
+      "when": "4:00 PM ET",
+      "selection": "UMass Lowell ML (Polymarket only)",
+      "book": "Polymarket",
+      "odds": 233,
+      "units": 0.5,
+      "confidence": 2,
+      "estEv": 0.08,
+      "reasoning": "Polymarket only (Mass school today): UML 'Yes' ask is 0.30 = 30% implied, which is +233. The market is thin ($14.7k liquidity, only about $33 traded at 8:05 AM ET), so use a limit order at 0.30 or better. Our blend gives UML about 32.8% (market 70% AU no-vig, BPI 62.8%). EV is about +8% after an assumed 1% fee. The sportsbook line has moved from AU -9 to -6.5 toward UML (reference only: bet365 and DK +230)."
+    },
+    {
+      "id": "digest-2026-11-28-7",
+      "tier": "value",
+      "sport": "PARLAY",
+      "market": "Parlay",
+      "matchup": "Northwestern -3.5 + N.C. Central +1.5",
+      "when": "12:30 / 1:00 PM ET",
+      "selection": "Northwestern -3.5 + N.C. Central +1.5",
+      "book": "FanDuel",
+      "odds": 288,
+      "units": 0.25,
+      "confidence": 2,
+      "estEv": 0.21,
+      "reasoning": "Two independent spread edges priced at FanDuel (NU -3.5 -104, NCCU +1.5 -102), for about +288. The joint fair probability is about 31% (0.55 x 0.566), so EV is about +21%. Parlays are 1-3 this season, so this stays at 0.25u.",
+      "legs": [
+        {
+          "selection": "Northwestern -3.5",
+          "book": "FanDuel",
+          "odds": -104
+        },
+        {
+          "selection": "N.C. Central +1.5",
+          "book": "FanDuel",
+          "odds": -102
+        }
+      ]
+    }
+  ],
+  "record": {
+    "yesterday": {
+      "w": 5,
+      "l": 3,
+      "p": 0,
+      "units": 1.5550000000000002,
+      "usd": 15.55
+    },
+    "season": {
+      "w": 18,
+      "l": 12,
+      "p": 0,
+      "units": 5.831,
+      "usd": 58.31,
+      "hitRate": 0.6
+    }
+  },
+  "passed": [
+    "Michigan at Ohio State (OSU -10.5, total 46 down to 36.5): Ohio State is without QB Julian Sayin, and Michigan's Bryce Underwood is questionable (X news summary). ESPN FPI is stale on the QB news, so the model's OSU edge isn't trusted. Pass.",
+    "USC at UCLA (UCLA +5.5 from +10.5): the raw model liked UCLA, but it's built on FPI, which doesn't account for the QB situation, and the line already moved 5 points. VSiN is on UCLA. Pass.",
+    "UAB at North Texas: UNT QB Tayven Jackson is out (Makinen), so the FPI edge for UNT is stale. Pass.",
+    "South Carolina at Clemson (moved from CLEM -3 to SC -6.5): Clemson is down to its third QB (Makinen). FPI is stale. Pass.",
+    "Penn State -7.5 at Maryland, SMU -7.5 at Stanford, Virginia +2.5 at Virginia Tech, UCF +2.5 at Colorado: the raw model edges ran against sharp money or line moves, and Makinen disagrees on PSU. Pass.",
+    "Washington at Oregon (ORE -13.5): Makinen's EYPP has Oregon -16, but the line fell 2 points despite 92% of money on Oregon. Conflicting signals. Pass.",
+    "Sacramento State at Hawaii (HAW -13.5) and UTEP at Northern Illinois (NIU -4): model EV is +9% to +14%, built on FPI for a first-year FBS team and a winless team with a coaching vacancy. The data is thin. Pass.",
+    "UMass at Bowling Green (Polymarket only): UMass ML ask 0.41 (41%, +144) is about +5% after fees, and Makinen likes UMass +3. But the line moved 2 points against UMass (BG -1.5 to -3.5). Close; pass.",
+    "Boston College at Miami (Polymarket only): BC ML 0.056 ask; Miami -24.5 is 0.49/0.50. No model edge. Merrimack at Hofstra (Polymarket only): Hofstra 0.55, under +3% EV. Pass.",
+    "Notre Dame at Syracuse (ND -25.5 from -19.5): Syracuse +27 shows about +7% raw. That would be a bet against a favorite team, but the line moved 6 points toward ND with sharp money (73% of money on ND) and 79% chance of rain. The model probably misses why. Not taken.",
+    "Large college hoops spreads (Alcorn/Georgia Tech, Citadel/High Point, Marist/George Mason, and others) and long-shot MLs: the normal-margin model overstates dogs at the tails. Not trusted.",
+    "NBA, NHL, NFL (none today), and soccer: no verified side model today, so no side picks (only totals tracking leans)."
+  ],
+  "dashboardUrl": "https://cursor.com/canvas/store-ed3151b7-555e-43df-a36f-eccbc7ff339a/a04ceab0-791f-493a-96ec-4bc4bbc59382"
+}
